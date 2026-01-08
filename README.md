@@ -42,9 +42,9 @@ Always open to new challenges and innovation!
 ---
 
 ## 📬 How to Reach Me
-- 📧 Email: **contact@christiansantacruz.com**  
+- 📧 Email: **christian.santacruz.lopez@gmail.com**  
 - 💬 Telegram: **@ChrisCodeX1**  
-- 🌐 Portfolio: **https://portafoliochriscode.vercel.app/**  
+- 🌐 Portfolio: **https://chriscode.site/**  
 
 ---
 

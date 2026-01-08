@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Christian Santacruz  
 ### FullStack Developer | AI Enthusiast 🚀
 
-I’m a passionate developer who builds modern, scalable and high-performance applications.  
+I'm a passionate developer who builds modern, scalable and high-performance applications.  
 I love turning ideas into real products using clean architecture and cutting-edge technologies.
 
 🌐 **Portfolio:**  
@@ -10,7 +10,7 @@ https://www.chriscode.site
 ---
 
 ## 🧠 About Me
-I’m a **FullStack Developer** with strong experience in frontend, backend and AI.  
+I'm a **FullStack Developer** with strong experience in frontend, backend and AI.  
 Focused on building efficient systems, clean code and great user experiences.
 
 ✨ I enjoy:
@@ -31,7 +31,7 @@ Exploring **Artificial Intelligence** to build:
 ---
 
 ## 🤝 Collaboration
-I’m open to collaborating on:
+I'm open to collaborating on:
 - 🤖 AI & Machine Learning projects  
 - 🌐 FullStack web applications  
 - ⚙️ Backend systems  
@@ -99,7 +99,7 @@ Pandas • TensorFlow • PyTorch
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ChrisSantacruz&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChrisSantacruz&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 ---

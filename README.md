@@ -107,7 +107,7 @@ Pandas • TensorFlow • PyTorch
 ## 🚀 Featured Projects
 Check out my best projects on my portfolio:
 
-👉 **https://portafoliochriscode.vercel.app/**
+👉 **https://chriscode.site/**
 
 ---
 

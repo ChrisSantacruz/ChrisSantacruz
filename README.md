@@ -94,12 +94,11 @@ Pandas • TensorFlow • PyTorch
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Contribution heatmap: no GitHub API calls, no auth required -->
-  <img src="https://ghchart.rshah.org/ChrisSantacruz" alt="GitHub contribution chart for ChrisSantacruz" />
+  <img src="https://ghchart.rshah.org/ChrisSantacruz" alt="GitHub contribution chart" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChrisSantacruz&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ChrisSantacruz&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 ---
